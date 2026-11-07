@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm.ds8000/commit/bda9d9c35823ed5a6ba788ca94fda2d25678a78a",
       "git:hexsha": "bda9d9c35823ed5a6ba788ca94fda2d25678a78a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T16:46:30.689433+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/ibm.ds8000/commit/5613cd6ab39fc48e1833e8cd78b8b79ddcaed2d5",
